@@ -303,3 +303,4 @@ MIT License - feel free to use for personal or commercial projects.
 **Made with ❤️ for surveillance and monitoring needs**
 
 # camera
+# cam-app-2
